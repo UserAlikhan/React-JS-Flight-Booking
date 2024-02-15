@@ -1,0 +1,172 @@
+/*body {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    height: 100vh;*/
+/*    margin: 0;*/
+/*    background-color: #11101d;*/
+/*}*/
+
+.seatOderCover{
+    width: 1920px;
+    height: 927px;
+    background-color: #1d1b31;
+}
+
+.airplane {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding-right: 50px;
+}
+
+.first-row {
+    top: 210px;
+    left: 15px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.second-row {
+    top: 210px;
+    left: 55px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.third-row {
+    top: 210px;
+    left: 140px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.fourth-row {
+    top: 210px;
+    left: 185px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.seat-button {
+    width: 32px;
+    height: 32px;
+    background-color: red;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 16px;
+    color: #fff;
+}
+
+/* Adjust the following styles based on your airplane image dimensions */
+.seat-button.selected {
+    background-color: green;
+}
+
+/* Info Window */
+/* .InfoWindow {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    height: 700px;
+    width: 1200px;
+    font-size: 24px;
+    color: #fff;
+}
+
+.InfoWindow .mainInfo{
+    top: 0;
+    left: 0;
+    padding-right: 55px;
+}
+
+.InfoWindow .detailInfo{x
+    position:inherit;
+    right: 0;
+    top: 0;
+} */
+
+.InfoWindow {
+    position: fixed;
+    top: 55px;
+    left: 0;
+    width: 1100px;
+    height: 500px;
+    font-size: 24px;
+    color: #fff;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin-top: 105px;
+}
+
+.mainInfo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    margin-left: 155px;
+}
+
+.mainInfo ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.detailInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+    /* margin-right: 55px; */
+    /* box-sizing: border-box; */
+}
+
+.detailInfo li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.InfoWindow ul {
+    list-style: none;
+    padding: 0;
+}
+
+.InfoWindow li {
+    padding-bottom: 15px;
+}
+
+#PayButton {
+    padding: 10px 45px;
+    background-color: #4CAF50;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.prevPage{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin-bottom: 25px;
+    margin-left: 25px;
+}
+
+.prevPage a{
+    color: yellow;
+}

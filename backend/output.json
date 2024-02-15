@@ -1,0 +1,5378 @@
+[
+  {
+    "id": "c4a28cd3a8bba805420d9bd261cc1c0d42d53e100b0d14b7a5c94582230d82a2",
+    "careerCode": "TK",
+    "flight_code": "TK-1986",
+    "flight_name": "Turkish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T16:15:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T13:20:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "TK-1986",
+      "TK-764"
+    ],
+    "duration": {
+      "text": "17h 05m",
+      "value": 1025
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "IST",
+        "stopDuration": 530
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 787.44,
+      "tax": 308.72,
+      "base": 478.72
+    }
+  },
+  {
+    "id": "f20088c4b798c7f3544ad2297a6e1cd8e3775d9fb4846d3c0712e8972bdf735f",
+    "careerCode": "LO",
+    "flight_code": "LO-282",
+    "flight_name": "LOT Polish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": null
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T10:25:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T16:45:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "LO-282",
+      "LO-121"
+    ],
+    "duration": {
+      "text": "26h 20m",
+      "value": 1580
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "WAW",
+        "stopDuration": 1065
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 860.8800000000001,
+      "tax": 199.92000000000002,
+      "base": 660.96
+    }
+  },
+  {
+    "id": "41a085e212edb287ce89c9fb52ddabb6a3bb2c493d542e4a7828608538f4d653",
+    "careerCode": "AI",
+    "flight_code": "AI-162",
+    "flight_name": "Air India",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 20,
+        "qty": "W",
+        "unit": "K",
+        "text": "20 KG",
+        "refNumber": 3,
+        "totalWeight": 20,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T08:45:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T08:35:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "AI-162",
+      "AI-929"
+    ],
+    "duration": {
+      "text": "19h 50m",
+      "value": 1190
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DEL",
+        "stopDuration": 455
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 907.1200000000001,
+      "tax": 390.32000000000005,
+      "base": 516.8000000000001
+    }
+  },
+  {
+    "id": "390bca2642d34650cc3178ee1133b436eb144ce2bde736d614704f8a3b74d57d",
+    "careerCode": "AY",
+    "flight_code": "AY-1340",
+    "flight_name": "Finnair",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T07:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T22:50:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "AY-1340",
+      "AY-1963"
+    ],
+    "duration": {
+      "text": "11h 20m",
+      "value": 680
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "HEL",
+        "stopDuration": 75
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 920.72,
+      "tax": 170,
+      "base": 750.72
+    }
+  },
+  {
+    "id": "53279ea2bb2ed79d1beb7019b79f8ce18ec06e205f07ab67842412ffe9bfe66b",
+    "careerCode": "A3",
+    "flight_code": "A3-603",
+    "flight_name": "Aegean Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": null
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T16:35:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T16:55:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "A3-603",
+      "A3-958"
+    ],
+    "duration": {
+      "text": "20h 20m",
+      "value": 1220
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "ATH",
+        "stopDuration": 705
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 966.96,
+      "tax": 199.92000000000002,
+      "base": 767.0400000000001
+    }
+  },
+  {
+    "id": "c499703ce17d0b0c8bef79c45d3abf36ac78f5d04086a2d0020d327156cf2807",
+    "careerCode": "KL",
+    "flight_code": "KL-1000",
+    "flight_name": "KLM Royal Dutch Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": null
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T06:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T00:05:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "KL-1000",
+      "KL-427"
+    ],
+    "duration": {
+      "text": "13h 35m",
+      "value": 815
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "AMS",
+        "stopDuration": 335
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 983.2800000000001,
+      "tax": 295.12,
+      "base": 688.1600000000001
+    }
+  },
+  {
+    "id": "708d321b98b3c02f79ea049af38a3b79e022ec3b5b6f2496810cc94562dcc456",
+    "careerCode": "AI",
+    "flight_code": "AI-112",
+    "flight_name": "Air India",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 20,
+        "qty": "W",
+        "unit": "K",
+        "text": "20 KG",
+        "refNumber": 3,
+        "totalWeight": 20,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T13:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T08:35:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "AI-112",
+      "AI-929"
+    ],
+    "duration": {
+      "text": "15h 05m",
+      "value": 905
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DEL",
+        "stopDuration": 170
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 988.72,
+      "tax": 390.32000000000005,
+      "base": 598.4000000000001
+    }
+  },
+  {
+    "id": "f024403c349ed01d755118180a3c99e9409b94d3e40fc8be207de7da642990c1",
+    "careerCode": "TK",
+    "flight_code": "TK-1988",
+    "flight_name": "Turkish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T06:35:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T03:05:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "TK-1988",
+      "TK-758"
+    ],
+    "duration": {
+      "text": "16h 30m",
+      "value": 990
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "IST",
+        "stopDuration": 490
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 994.1600000000001,
+      "tax": 308.72,
+      "base": 685.44
+    }
+  },
+  {
+    "id": "4a2c0a8e2cff1421b6637207d57cba23b8e1c84dff5d22d102492a6beef81d4e",
+    "careerCode": "LO",
+    "flight_code": "LO-280",
+    "flight_name": "LOT Polish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": null
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T18:10:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T16:45:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "LO-280",
+      "LO-121"
+    ],
+    "duration": {
+      "text": "18h 35m",
+      "value": 1115
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "WAW",
+        "stopDuration": 590
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1013.2,
+      "tax": 199.92000000000002,
+      "base": 813.2800000000001
+    }
+  },
+  {
+    "id": "dd8a733c6c2bd2465cc9a64c359e2c1d0ceb57b19f6875477baedc8339b33bea",
+    "careerCode": "AI",
+    "flight_code": "AI-130",
+    "flight_name": "Air India",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 20,
+        "qty": "W",
+        "unit": "K",
+        "text": "20 KG",
+        "refNumber": 3,
+        "totalWeight": 20,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T21:05:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T17:55:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "AI-130",
+      "AI-919"
+    ],
+    "duration": {
+      "text": "16h 50m",
+      "value": 1010
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "BOM",
+        "stopDuration": 275
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1089.3600000000001,
+      "tax": 390.32000000000005,
+      "base": 699.0400000000001
+    }
+  },
+  {
+    "id": "9ec009d79a3d7d4b97a76e803901084bfa59e68587ccbd7c4c6d9beb09bf1854",
+    "careerCode": "AI",
+    "flight_code": "AI-128",
+    "flight_name": "Air India",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 20,
+        "qty": "W",
+        "unit": "K",
+        "text": "20 KG",
+        "refNumber": 3,
+        "totalWeight": 20,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T13:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T10:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "AI-128",
+      "AI-909"
+    ],
+    "duration": {
+      "text": "17h 15m",
+      "value": 1035
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "BOM",
+        "stopDuration": 325
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1089.3600000000001,
+      "tax": 390.32000000000005,
+      "base": 699.0400000000001
+    }
+  },
+  {
+    "id": "95a1436692c8e6139e9f904cc46b3948c104d7cd8a96316fc79238f7c4164379",
+    "careerCode": "TK",
+    "flight_code": "TK-1986",
+    "flight_name": "Turkish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T16:15:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T06:55:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "TK-1986",
+      "TK-762"
+    ],
+    "duration": {
+      "text": "10h 40m",
+      "value": 640
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "IST",
+        "stopDuration": 150
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1105.68,
+      "tax": 308.72,
+      "base": 796.96
+    }
+  },
+  {
+    "id": "a6ec9fa493ce3be95189c599339425b8a36d093f61099bf966cb34c5c448f648",
+    "careerCode": "TK",
+    "flight_code": "TK-1972",
+    "flight_name": "Turkish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T17:45:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T13:20:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "TK-1972",
+      "TK-764"
+    ],
+    "duration": {
+      "text": "15h 35m",
+      "value": 935
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "IST",
+        "stopDuration": 445
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1105.68,
+      "tax": 308.72,
+      "base": 796.96
+    }
+  },
+  {
+    "id": "0850d8118728e4bdba6788d90f82885ae0d5897642f05532011a14d7badd61d5",
+    "careerCode": "TK",
+    "flight_code": "TK-1934",
+    "flight_name": "Turkish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T16:45:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T13:20:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "TK-1934",
+      "TK-764"
+    ],
+    "duration": {
+      "text": "16h 35m",
+      "value": 995
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "IST",
+        "stopDuration": 510
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1105.68,
+      "tax": 308.72,
+      "base": 796.96
+    }
+  },
+  {
+    "id": "479bcc30be9c8f0d1203c545f84364130504c3a3a7de39a39d0cf4d114399a76",
+    "careerCode": "TK",
+    "flight_code": "TK-1988",
+    "flight_name": "Turkish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T06:35:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T06:55:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "TK-1988",
+      "TK-762"
+    ],
+    "duration": {
+      "text": "20h 20m",
+      "value": 1220
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "IST",
+        "stopDuration": 725
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1105.68,
+      "tax": 308.72,
+      "base": 796.96
+    }
+  },
+  {
+    "id": "5cefb97343e70e69a7c097bd6ebd47d67495e86373712b92aed8bb9b1a30f614",
+    "careerCode": "TK",
+    "flight_code": "TK-1972",
+    "flight_name": "Turkish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T17:45:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T06:55:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "TK-1972",
+      "TK-762"
+    ],
+    "duration": {
+      "text": "09h 10m",
+      "value": 550
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "IST",
+        "stopDuration": 65
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1230.8000000000002,
+      "tax": 308.72,
+      "base": 922.08
+    }
+  },
+  {
+    "id": "ae820d5b1f8845dcea6a7eeea7d5a12c4793ef679416295a5d82cfa7b93df932",
+    "careerCode": "TK",
+    "flight_code": "TK-1934",
+    "flight_name": "Turkish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T16:45:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T06:55:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "TK-1934",
+      "TK-762"
+    ],
+    "duration": {
+      "text": "10h 10m",
+      "value": 610
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "IST",
+        "stopDuration": 130
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1230.8000000000002,
+      "tax": 308.72,
+      "base": 922.08
+    }
+  },
+  {
+    "id": "e5f801ee8efdbf244e4c428270ea34a2fc3b31b916c46e45ff141a1efc5a2f33",
+    "careerCode": "TK",
+    "flight_code": "TK-1972",
+    "flight_name": "Turkish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T17:45:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-17T03:05:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "TK-1972",
+      "TK-758"
+    ],
+    "duration": {
+      "text": "29h 20m",
+      "value": 1760
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "IST",
+        "stopDuration": 1270
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1230.8000000000002,
+      "tax": 308.72,
+      "base": 922.08
+    }
+  },
+  {
+    "id": "c1a8687ae6e6deef4d8ecb3b302fcb442741f8e6773452db3d70a11f005e94bf",
+    "careerCode": "TK",
+    "flight_code": "TK-1988",
+    "flight_name": "Turkish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T06:35:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T01:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "TK-1988",
+      "TK-760"
+    ],
+    "duration": {
+      "text": "14h 40m",
+      "value": 880
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "IST",
+        "stopDuration": 380
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1230.8000000000002,
+      "tax": 308.72,
+      "base": 922.08
+    }
+  },
+  {
+    "id": "b6a9b0bac4d3dc21b69c1253f7d44a4af113e67bd3cc8fbd9320b4c4007610df",
+    "careerCode": "MS",
+    "flight_code": "MS-778",
+    "flight_name": "Egyptair",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 2,
+        "qty": "N",
+        "unit": null,
+        "text": "2 PIECE",
+        "refNumber": 5,
+        "quantity": 2,
+        "perPieceWeight": 23,
+        "perPieceWeightFlag": "AVERAGE"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T14:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T03:45:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "MS-778",
+      "MS-910"
+    ],
+    "duration": {
+      "text": "09h 45m",
+      "value": 585
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CAI",
+        "stopDuration": 110
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1236.24,
+      "tax": 338.64000000000004,
+      "base": 897.6
+    }
+  },
+  {
+    "id": "71e4cd7a05803da70513ad217721a827f44531afe4bd515191c47fc279b33106",
+    "careerCode": "MS",
+    "flight_code": "MS-778",
+    "flight_name": "Egyptair",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 2,
+        "qty": "N",
+        "unit": null,
+        "text": "2 PIECE",
+        "refNumber": 5,
+        "quantity": 2,
+        "perPieceWeight": 23,
+        "perPieceWeightFlag": "AVERAGE"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T14:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T09:40:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "MS-778",
+      "MS-901"
+    ],
+    "duration": {
+      "text": "15h 40m",
+      "value": 940
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CAI",
+        "stopDuration": 460
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1236.24,
+      "tax": 338.64000000000004,
+      "base": 897.6
+    }
+  },
+  {
+    "id": "b30ff10a733f4ec36776092569627a1f8524eef348e20226cf995d3e636f9819",
+    "careerCode": "MS",
+    "flight_code": "MS-778",
+    "flight_name": "Egyptair",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 2,
+        "qty": "N",
+        "unit": null,
+        "text": "2 PIECE",
+        "refNumber": 5,
+        "quantity": 2,
+        "perPieceWeight": 23,
+        "perPieceWeightFlag": "AVERAGE"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T14:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T19:00:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "MS-778",
+      "MS-905"
+    ],
+    "duration": {
+      "text": "25h 00m",
+      "value": 1500
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CAI",
+        "stopDuration": 1020
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1236.24,
+      "tax": 338.64000000000004,
+      "base": 897.6
+    }
+  },
+  {
+    "id": "528b2d8141a781b1d226c235bea3b19025e60ed70909fca87c955e14147752ab",
+    "careerCode": "MS",
+    "flight_code": "MS-780",
+    "flight_name": "Egyptair",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 2,
+        "qty": "N",
+        "unit": null,
+        "text": "2 PIECE",
+        "refNumber": 5,
+        "quantity": 2,
+        "perPieceWeight": 23,
+        "perPieceWeightFlag": "AVERAGE"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T22:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T19:00:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "MS-780",
+      "MS-905"
+    ],
+    "duration": {
+      "text": "16h 30m",
+      "value": 990
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CAI",
+        "stopDuration": 510
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1238.96,
+      "tax": 341.36,
+      "base": 897.6
+    }
+  },
+  {
+    "id": "c3f5f6108e7f061051f64897f2fe105846704ff4054ad87a4ab13a2791734b52",
+    "careerCode": "MS",
+    "flight_code": "MS-780",
+    "flight_name": "Egyptair",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 2,
+        "qty": "N",
+        "unit": null,
+        "text": "2 PIECE",
+        "refNumber": 5,
+        "quantity": 2,
+        "perPieceWeight": 23,
+        "perPieceWeightFlag": "AVERAGE"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T22:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T15:00:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "MS-780",
+      "MS-912"
+    ],
+    "duration": {
+      "text": "12h 30m",
+      "value": 750
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CAI",
+        "stopDuration": 275
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1241.68,
+      "tax": 344.08000000000004,
+      "base": 897.6
+    }
+  },
+  {
+    "id": "4aa0808c1e5cf46d130e780bae3fb493ac736d8a8e7574f4a241d7348617859b",
+    "careerCode": "MS",
+    "flight_code": "MS-780",
+    "flight_name": "Egyptair",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 2,
+        "qty": "N",
+        "unit": null,
+        "text": "2 PIECE",
+        "refNumber": 5,
+        "quantity": 2,
+        "perPieceWeight": 23,
+        "perPieceWeightFlag": "AVERAGE"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T22:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-17T09:00:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "MS-780",
+      "MS-901"
+    ],
+    "duration": {
+      "text": "30h 30m",
+      "value": 1830
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CAI",
+        "stopDuration": 1350
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1241.68,
+      "tax": 344.08000000000004,
+      "base": 897.6
+    }
+  },
+  {
+    "id": "d8a3865d97bfd4a0c344b8434b6c2a33797c8f1396cc0c2664e6b8254ac6c5c8",
+    "careerCode": "AF",
+    "flight_code": "AF-1681",
+    "flight_name": "Air France",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": null
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T09:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T23:20:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "AF-1681",
+      "AF-662"
+    ],
+    "duration": {
+      "text": "10h 20m",
+      "value": 620
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CDG",
+        "stopDuration": 130
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1331.44,
+      "tax": 303.28000000000003,
+      "base": 1028.16
+    }
+  },
+  {
+    "id": "556741cacd57cb2cae24f9f3cbb452292903c7cc78201bfbb6a341b05ac04cb8",
+    "careerCode": "TK",
+    "flight_code": "TK-1972",
+    "flight_name": "Turkish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T17:45:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-17T01:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "TK-1972",
+      "TK-760"
+    ],
+    "duration": {
+      "text": "27h 30m",
+      "value": 1650
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "IST",
+        "stopDuration": 1160
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1380.4,
+      "tax": 308.72,
+      "base": 1071.68
+    }
+  },
+  {
+    "id": "f8a860374c79cf0f7878fdf0e46ea42c1de8ed81fc890329a53affbd788e85e7",
+    "careerCode": "EK",
+    "flight_code": "EK-08",
+    "flight_name": "Emirates",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T09:10:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T20:00:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "EK-08"
+    ],
+    "duration": {
+      "text": "06h 50m",
+      "value": 410
+    },
+    "stopSummary": {},
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1388.5600000000002,
+      "tax": 284.24,
+      "base": 1104.3200000000002
+    }
+  },
+  {
+    "id": "2030de0c5c11670060129021d5cb21e76a1cbc4d5bf36e8ca5fa710d46c0e7b9",
+    "careerCode": "EK",
+    "flight_code": "EK-30",
+    "flight_name": "Emirates",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T15:50:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T02:40:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "EK-30"
+    ],
+    "duration": {
+      "text": "06h 50m",
+      "value": 410
+    },
+    "stopSummary": {},
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1388.5600000000002,
+      "tax": 284.24,
+      "base": 1104.3200000000002
+    }
+  },
+  {
+    "id": "db5548d3c11419e0488283897ffcb92f3895f94efb359d2b10d40f74c15f5e22",
+    "careerCode": "A3",
+    "flight_code": "A3-609",
+    "flight_name": "Aegean Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": null
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T22:15:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T16:55:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "A3-609",
+      "A3-958"
+    ],
+    "duration": {
+      "text": "14h 40m",
+      "value": 880
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "ATH",
+        "stopDuration": 375
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1391.2800000000002,
+      "tax": 199.92000000000002,
+      "base": 1191.3600000000001
+    }
+  },
+  {
+    "id": "c890c9dc43864ebd6db62102cd4dfcb9f7780732ad15e90d8de837756e669087",
+    "careerCode": "TK",
+    "flight_code": "TK-1988",
+    "flight_name": "Turkish Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T06:35:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T03:50:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "TK-1988",
+      "TK-7686"
+    ],
+    "duration": {
+      "text": "17h 15m",
+      "value": 1035
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "IST",
+        "stopDuration": 530
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1394,
+      "tax": 322.32000000000005,
+      "base": 1071.68
+    }
+  },
+  {
+    "id": "7705cfd1fbfcf3404b596c826fcb4701524afcb9cd628a7bbd84b922d2f5457d",
+    "careerCode": "BI",
+    "flight_code": "BI-98",
+    "flight_name": "Royal Brunei",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T16:55:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T04:25:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "BI-98"
+    ],
+    "duration": {
+      "text": "07h 30m",
+      "value": 450
+    },
+    "stopSummary": {},
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1432.0800000000002,
+      "tax": 183.60000000000002,
+      "base": 1248.48
+    }
+  },
+  {
+    "id": "5f53573b8c62838a944d22ba1ca005c004ca13406346e969fee5c31a5cfb061a",
+    "careerCode": "LX",
+    "flight_code": "LX-339",
+    "flight_name": "SWISS International Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T20:05:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T22:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "LX-339",
+      "LX-242"
+    ],
+    "duration": {
+      "text": "22h 10m",
+      "value": 1330
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "ZRH",
+        "stopDuration": 860
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1432.0800000000002,
+      "tax": 284.24,
+      "base": 1147.8400000000001
+    }
+  },
+  {
+    "id": "b59c9c8038313b2d54443dcab44b1fb7296512226fda75f71a7aaf742678f968",
+    "careerCode": "LH",
+    "flight_code": "LH-2483",
+    "flight_name": "Lufthansa",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T20:15:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-17T07:30:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "LH-2483",
+      "LH-638"
+    ],
+    "duration": {
+      "text": "31h 15m",
+      "value": 1875
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "MUC",
+        "stopDuration": 1415
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1440.24,
+      "tax": 292.40000000000003,
+      "base": 1147.8400000000001
+    }
+  },
+  {
+    "id": "4fae43753989fdd8721892e5603cae67457160520cecc44903c307c9df51d8cb",
+    "careerCode": "LH",
+    "flight_code": "LH-919",
+    "flight_name": "Lufthansa",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T19:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T22:55:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "LH-919",
+      "LH-630"
+    ],
+    "duration": {
+      "text": "23h 25m",
+      "value": 1405
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "FRA",
+        "stopDuration": 925
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1453.8400000000001,
+      "tax": 306,
+      "base": 1147.8400000000001
+    }
+  },
+  {
+    "id": "48894c552fac3a4f895cb7d1383526f4ae41e8b4e1125451d0641343149338b9",
+    "careerCode": "GF",
+    "flight_code": "GF-02",
+    "flight_name": "Gulf Air",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T09:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T22:35:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "GF-02",
+      "GF-512"
+    ],
+    "duration": {
+      "text": "09h 05m",
+      "value": 545
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "BAH",
+        "stopDuration": 70
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1462,
+      "tax": 338.64000000000004,
+      "base": 1123.3600000000001
+    }
+  },
+  {
+    "id": "83d01be1ee4558d7c5d5620980f1b1eb0b45e299fb7c66db773d3f33c9c56526",
+    "careerCode": "LX",
+    "flight_code": "LX-359",
+    "flight_name": "SWISS International Airlines",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T07:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T22:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "LX-359",
+      "LX-2809",
+      "LX-242"
+    ],
+    "duration": {
+      "text": "11h 15m",
+      "value": 675
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "GVA",
+        "stopDuration": 80
+      },
+      "1": {
+        "airport": "ZRH",
+        "stopDuration": 75
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1462,
+      "tax": 314.16,
+      "base": 1147.8400000000001
+    }
+  },
+  {
+    "id": "4b11c144767674a83b26c43a49ca3882d8914bf95c8cdf04f4e7a3483dfb06e2",
+    "careerCode": "LX",
+    "flight_code": "LX-359",
+    "flight_name": "SWISS International Airlines",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T07:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T22:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "LX-359",
+      "LX-2813",
+      "LX-242"
+    ],
+    "duration": {
+      "text": "11h 15m",
+      "value": 675
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "GVA",
+        "stopDuration": 105
+      },
+      "1": {
+        "airport": "ZRH",
+        "stopDuration": 55
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1462,
+      "tax": 314.16,
+      "base": 1147.8400000000001
+    }
+  },
+  {
+    "id": "43814fd47058188d1e70392a5e5a51187bf650b636c0f3acd505b431498d7d60",
+    "careerCode": "LX",
+    "flight_code": "LX-357",
+    "flight_name": "SWISS International Airlines",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T19:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T22:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "LX-357",
+      "LX-2813",
+      "LX-242"
+    ],
+    "duration": {
+      "text": "22h 45m",
+      "value": 1365
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "GVA",
+        "stopDuration": 780
+      },
+      "1": {
+        "airport": "ZRH",
+        "stopDuration": 65
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1470.16,
+      "tax": 322.32000000000005,
+      "base": 1147.8400000000001
+    }
+  },
+  {
+    "id": "cb01a43cb342588426ca8246f64bc1ed3393364dc9351774b02453a5d7812ca6",
+    "careerCode": "GF",
+    "flight_code": "GF-06",
+    "flight_name": "Gulf Air",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T21:50:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T12:10:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "GF-06",
+      "GF-504"
+    ],
+    "duration": {
+      "text": "10h 20m",
+      "value": 620
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "BAH",
+        "stopDuration": 150
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1676.88,
+      "tax": 338.64000000000004,
+      "base": 1338.24
+    }
+  },
+  {
+    "id": "ba09904682ae6e92ab66848a6b9641d738f8c4259d66fd4b0d4cc803bc5fc88e",
+    "careerCode": "EK",
+    "flight_code": "EK-06",
+    "flight_name": "Emirates",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T22:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T08:45:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "EK-06"
+    ],
+    "duration": {
+      "text": "06h 45m",
+      "value": 405
+    },
+    "stopSummary": {},
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1685.0400000000002,
+      "tax": 284.24,
+      "base": 1400.8000000000002
+    }
+  },
+  {
+    "id": "a44269a9693040723f0e3e06cfe092287a6d96efbedacbd46b897f727a760d5e",
+    "careerCode": "EK",
+    "flight_code": "EK-02",
+    "flight_name": "Emirates",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T13:40:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T00:40:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "EK-02"
+    ],
+    "duration": {
+      "text": "07h 00m",
+      "value": 420
+    },
+    "stopSummary": {},
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1685.0400000000002,
+      "tax": 284.24,
+      "base": 1400.8000000000002
+    }
+  },
+  {
+    "id": "fe77d7d4092c4f37a2091d5c9b74aab1196be68d80354ed235f2c60e6b1af162",
+    "careerCode": "EK",
+    "flight_code": "EK-42",
+    "flight_name": "Emirates",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T20:15:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T07:20:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "EK-42"
+    ],
+    "duration": {
+      "text": "07h 05m",
+      "value": 425
+    },
+    "stopSummary": {},
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1685.0400000000002,
+      "tax": 284.24,
+      "base": 1400.8000000000002
+    }
+  },
+  {
+    "id": "21fb018cbb8d9b8716e11cf326d62233c9f2da66961b409a9cb731ab05b42f75",
+    "careerCode": "EK",
+    "flight_code": "EK-04",
+    "flight_name": "Emirates",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T20:20:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T07:20:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "EK-04"
+    ],
+    "duration": {
+      "text": "07h 00m",
+      "value": 420
+    },
+    "stopSummary": {},
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1685.0400000000002,
+      "tax": 284.24,
+      "base": 1400.8000000000002
+    }
+  },
+  {
+    "id": "3655844a2e455e4ecdf921fd4eb8bdf81dfb2ad8c0bfd90b38ef36a079a7a57c",
+    "careerCode": "KL",
+    "flight_code": "KL-1008",
+    "flight_name": "KLM Royal Dutch Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": null
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T10:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T00:05:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "KL-1008",
+      "KL-427"
+    ],
+    "duration": {
+      "text": "10h 05m",
+      "value": 605
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "AMS",
+        "stopDuration": 130
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1772.0800000000002,
+      "tax": 295.12,
+      "base": 1476.96
+    }
+  },
+  {
+    "id": "5cd6b9414e4e40783d05bd2b653c5d08455dbed0e58c89c6f87f2f614340a9e3",
+    "careerCode": "AF",
+    "flight_code": "AF-1381",
+    "flight_name": "Air France",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": null
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T06:20:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T23:20:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "AF-1381",
+      "AF-662"
+    ],
+    "duration": {
+      "text": "13h 00m",
+      "value": 780
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CDG",
+        "stopDuration": 295
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1772.0800000000002,
+      "tax": 303.28000000000003,
+      "base": 1468.8000000000002
+    }
+  },
+  {
+    "id": "e680de391fbc9dbe130fec6b7cd76e8ece7cb386b4913d2848c826aa3ddfaefa",
+    "careerCode": "AF",
+    "flight_code": "AF-1381",
+    "flight_name": "Air France",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": null
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T06:20:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T00:05:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "AF-1381",
+      "AF-8230",
+      "AF-8423"
+    ],
+    "duration": {
+      "text": "13h 45m",
+      "value": 825
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CDG",
+        "stopDuration": 100
+      },
+      "1": {
+        "airport": "AMS",
+        "stopDuration": 170
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1793.8400000000001,
+      "tax": 316.88,
+      "base": 1476.96
+    }
+  },
+  {
+    "id": "bb371b5ad5fbc0f7ea386e494d65631e8e524ae361c31be8b400a9ba72ec6a8d",
+    "careerCode": "BA",
+    "flight_code": "BA-7010",
+    "flight_name": "British Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T08:35:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T21:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "BA-7010",
+      "QR-1018"
+    ],
+    "duration": {
+      "text": "08h 40m",
+      "value": 520
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 45
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1880.88,
+      "tax": 325.04,
+      "base": 1555.8400000000001
+    }
+  },
+  {
+    "id": "88415f05de1d887c2fe3f45f6901b583d5b62211ce827e5cf2be19ad4271c524",
+    "careerCode": "BA",
+    "flight_code": "BA-7006",
+    "flight_name": "British Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T08:05:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T20:55:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "BA-7006",
+      "QR-1014"
+    ],
+    "duration": {
+      "text": "08h 50m",
+      "value": 530
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 55
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1880.88,
+      "tax": 325.04,
+      "base": 1555.8400000000001
+    }
+  },
+  {
+    "id": "8cb431c6ae526a9b510cf0c28b57523db258dc2f5d64ba0376fd7f3ed8fbcb7a",
+    "careerCode": "BA",
+    "flight_code": "BA-7008",
+    "flight_name": "British Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T14:55:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T03:50:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "BA-7008",
+      "QR-1002"
+    ],
+    "duration": {
+      "text": "08h 55m",
+      "value": 535
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 60
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1880.88,
+      "tax": 325.04,
+      "base": 1555.8400000000001
+    }
+  },
+  {
+    "id": "682cb542f3195a2776e45d2cfb8748122236d39d2f5c3abcb7d86f88f0875b7f",
+    "careerCode": "BA",
+    "flight_code": "BA-7004",
+    "flight_name": "British Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T14:15:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T03:50:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "BA-7004",
+      "QR-1002"
+    ],
+    "duration": {
+      "text": "09h 35m",
+      "value": 575
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 100
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1880.88,
+      "tax": 325.04,
+      "base": 1555.8400000000001
+    }
+  },
+  {
+    "id": "225b1f3735f6436f774fccf61844f1027c3ff1681f815ef05fd1402ca3348f33",
+    "careerCode": "BA",
+    "flight_code": "BA-2365",
+    "flight_name": "British Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T18:55:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T10:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "BA-2365",
+      "QR-1006"
+    ],
+    "duration": {
+      "text": "11h 20m",
+      "value": 680
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 205
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1880.88,
+      "tax": 325.04,
+      "base": 1555.8400000000001
+    }
+  },
+  {
+    "id": "90d5360d7f172cb9af623e40379e47a6d5e4e1eb78ad9cbb9193d3dcbf39f0eb",
+    "careerCode": "BA",
+    "flight_code": "BA-2303",
+    "flight_name": "British Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T16:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T10:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "BA-2303",
+      "QR-1006"
+    ],
+    "duration": {
+      "text": "14h 15m",
+      "value": 855
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 380
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1880.88,
+      "tax": 325.04,
+      "base": 1555.8400000000001
+    }
+  },
+  {
+    "id": "3d976f9bac21eef8b2323e485e4f9d4400adf6434e3088d43d43763b6abbf622",
+    "careerCode": "BA",
+    "flight_code": "BA-7014",
+    "flight_name": "British Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T21:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T10:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "BA-7014",
+      "QR-1006"
+    ],
+    "duration": {
+      "text": "08h 45m",
+      "value": 525
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 50
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1880.88,
+      "tax": 325.04,
+      "base": 1555.8400000000001
+    }
+  },
+  {
+    "id": "69f0a3520091d67f5550b8b451e56fed4174bda03b13de401125740be76489bc",
+    "careerCode": "KU",
+    "flight_code": "KU-102",
+    "flight_name": "Kuwait Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 2,
+        "qty": "N",
+        "unit": null,
+        "text": "2 PIECE",
+        "refNumber": 5,
+        "quantity": 2
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T15:45:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T04:35:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "KU-102",
+      "KU-677"
+    ],
+    "duration": {
+      "text": "08h 50m",
+      "value": 530
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "KWI",
+        "stopDuration": 55
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1905.3600000000001,
+      "tax": 259.76,
+      "base": 1645.6000000000001
+    }
+  },
+  {
+    "id": "d8412594e6c758100f05b02bac46bcfc9cf2a28ffe9fc83da25dc672eddc5ac2",
+    "careerCode": "KU",
+    "flight_code": "KU-104",
+    "flight_name": "Kuwait Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 2,
+        "qty": "N",
+        "unit": null,
+        "text": "2 PIECE",
+        "refNumber": 5,
+        "quantity": 2
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T10:45:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T04:35:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "KU-104",
+      "KU-677"
+    ],
+    "duration": {
+      "text": "13h 50m",
+      "value": 830
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "KWI",
+        "stopDuration": 355
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1905.3600000000001,
+      "tax": 259.76,
+      "base": 1645.6000000000001
+    }
+  },
+  {
+    "id": "28449accdec125a3a8564921411d66ed6c5d2ce561ffbd8b4b14b7d63e36b160",
+    "careerCode": "WY",
+    "flight_code": "WY-102",
+    "flight_name": "Oman Air",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 2,
+        "perPieceWeightFlag": "SPLIT",
+        "perPieceWeight": 15
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T20:05:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T10:00:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "WY-102",
+      "WY-603"
+    ],
+    "duration": {
+      "text": "09h 55m",
+      "value": 595
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "MCT",
+        "stopDuration": 90
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1924.4,
+      "tax": 341.36,
+      "base": 1583.0400000000002
+    }
+  },
+  {
+    "id": "1e169e96db658a6a2475103780b5899ba9d165b30aecb46c6de4967eecdf80fc",
+    "careerCode": "LX",
+    "flight_code": "LX-317",
+    "flight_name": "SWISS International Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T08:50:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T22:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "LX-317",
+      "LX-242"
+    ],
+    "duration": {
+      "text": "09h 25m",
+      "value": 565
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "ZRH",
+        "stopDuration": 80
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1989.68,
+      "tax": 284.24,
+      "base": 1705.44
+    }
+  },
+  {
+    "id": "8c0fd9e6a5518e4146eedd459a61dec9a0d7b71b53c73ec15c9f9d8ed1ed02e8",
+    "careerCode": "LH",
+    "flight_code": "LH-2479",
+    "flight_name": "Lufthansa",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T17:50:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T07:30:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "LH-2479",
+      "LH-638"
+    ],
+    "duration": {
+      "text": "09h 40m",
+      "value": 580
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "MUC",
+        "stopDuration": 120
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1989.68,
+      "tax": 284.24,
+      "base": 1705.44
+    }
+  },
+  {
+    "id": "52332f27ccdc4df6be76b1f0bb373662b3d0810d4376904bbf973b52589fcd58",
+    "careerCode": "LH",
+    "flight_code": "LH-901",
+    "flight_name": "Lufthansa",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T09:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T22:55:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "LH-901",
+      "LH-630"
+    ],
+    "duration": {
+      "text": "09h 25m",
+      "value": 565
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "FRA",
+        "stopDuration": 85
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 1997.8400000000001,
+      "tax": 292.40000000000003,
+      "base": 1705.44
+    }
+  },
+  {
+    "id": "7e47679dad58dde289b418144dbe234f7f85d8da7b53ac0d79400945cc6b1a9c",
+    "careerCode": "BA",
+    "flight_code": "BA-109",
+    "flight_name": "British Airways",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T21:35:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T08:30:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "BA-109"
+    ],
+    "duration": {
+      "text": "06h 55m",
+      "value": 415
+    },
+    "stopSummary": {},
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2169.2000000000003,
+      "tax": 295.12,
+      "base": 1874.0800000000002
+    }
+  },
+  {
+    "id": "4ab4d742546b07a34dc0c9517f8ea4b9f24e45ae842a5e3c589e7ee53e7ef958",
+    "careerCode": "BA",
+    "flight_code": "BA-107",
+    "flight_name": "British Airways",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T12:45:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T23:45:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "BA-107"
+    ],
+    "duration": {
+      "text": "07h 00m",
+      "value": 420
+    },
+    "stopSummary": {},
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2169.2000000000003,
+      "tax": 295.12,
+      "base": 1874.0800000000002
+    }
+  },
+  {
+    "id": "59be00f7450fdf603f3df2be0afb4698a7187850b3b0c64229bb28de7978ae72",
+    "careerCode": "BA",
+    "flight_code": "BA-105",
+    "flight_name": "British Airways",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 1,
+        "qty": "N",
+        "unit": null,
+        "text": "1 PIECE",
+        "refNumber": 4,
+        "quantity": 1
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T20:40:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T07:45:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "BA-105"
+    ],
+    "duration": {
+      "text": "07h 05m",
+      "value": 425
+    },
+    "stopSummary": {},
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2169.2000000000003,
+      "tax": 295.12,
+      "base": 1874.0800000000002
+    }
+  },
+  {
+    "id": "a15d89e9424ef34e47599c266cfdcc03932c4157bab8a119ab7179e67d22a200",
+    "careerCode": "QR",
+    "flight_code": "QR-108",
+    "flight_name": "Qatar Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T16:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T10:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "QR-108",
+      "QR-1006"
+    ],
+    "duration": {
+      "text": "14h 15m",
+      "value": 855
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 380
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2196.4,
+      "tax": 322.32000000000005,
+      "base": 1874.0800000000002
+    }
+  },
+  {
+    "id": "eedd64677b1293c8cc3a580d5e502ee3cff9ad30757abbd6d67a75045a3a3351",
+    "careerCode": "QR",
+    "flight_code": "QR-108",
+    "flight_name": "Qatar Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T16:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T20:55:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "QR-108",
+      "QR-1014"
+    ],
+    "duration": {
+      "text": "24h 55m",
+      "value": 1495
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 1020
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2207.28,
+      "tax": 325.04,
+      "base": 1882.2400000000002
+    }
+  },
+  {
+    "id": "ab593bc45e0e80a0ee886269e9785ea04329a016837ebce170c7754fea4090b0",
+    "careerCode": "QR",
+    "flight_code": "QR-16",
+    "flight_name": "Qatar Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T21:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T10:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "QR-16",
+      "QR-1006"
+    ],
+    "duration": {
+      "text": "08h 45m",
+      "value": 525
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 50
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2215.44,
+      "tax": 322.32000000000005,
+      "base": 1893.1200000000001
+    }
+  },
+  {
+    "id": "36a01446b0b333af6286001dc6625f7e272b0135c450cb3a585846e96e36ee99",
+    "careerCode": "QR",
+    "flight_code": "QR-12",
+    "flight_name": "Qatar Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T18:55:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T10:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "QR-12",
+      "QR-1006"
+    ],
+    "duration": {
+      "text": "11h 20m",
+      "value": 680
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 205
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2215.44,
+      "tax": 322.32000000000005,
+      "base": 1893.1200000000001
+    }
+  },
+  {
+    "id": "a1f6247a1d2d06566530283939efe73c1632dad4625ae44237f2d0e09033d067",
+    "careerCode": "QR",
+    "flight_code": "QR-08",
+    "flight_name": "Qatar Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T14:55:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T10:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "QR-08",
+      "QR-1006"
+    ],
+    "duration": {
+      "text": "15h 20m",
+      "value": 920
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 445
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2215.44,
+      "tax": 322.32000000000005,
+      "base": 1893.1200000000001
+    }
+  },
+  {
+    "id": "cebd8463e108b33ee9bd5067a51e511bff03f185e67f3cb640bf09b8e45c25a1",
+    "careerCode": "QR",
+    "flight_code": "QR-10",
+    "flight_name": "Qatar Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T08:35:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T21:15:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "QR-10",
+      "QR-1018"
+    ],
+    "duration": {
+      "text": "08h 40m",
+      "value": 520
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 45
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2226.32,
+      "tax": 322.32000000000005,
+      "base": 1904.0000000000002
+    }
+  },
+  {
+    "id": "08b9010f38b58c6dcba72ccb1c32210a21646e35872e7a7187af989118d486b5",
+    "careerCode": "QR",
+    "flight_code": "QR-06",
+    "flight_name": "Qatar Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T08:05:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-15T20:55:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "QR-06",
+      "QR-1014"
+    ],
+    "duration": {
+      "text": "08h 50m",
+      "value": 530
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 55
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2226.32,
+      "tax": 322.32000000000005,
+      "base": 1904.0000000000002
+    }
+  },
+  {
+    "id": "67031be26031dc29b30a8d32f0ab45b8779a018052d8caa3da41317c9cead3af",
+    "careerCode": "QR",
+    "flight_code": "QR-08",
+    "flight_name": "Qatar Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T14:55:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T03:50:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "QR-08",
+      "QR-1002"
+    ],
+    "duration": {
+      "text": "08h 55m",
+      "value": 535
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 60
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2226.32,
+      "tax": 322.32000000000005,
+      "base": 1904.0000000000002
+    }
+  },
+  {
+    "id": "b5aa578906be5d0797639de471223ecbebd1755318d9ee434e3dbe814d30aa5c",
+    "careerCode": "QR",
+    "flight_code": "QR-04",
+    "flight_name": "Qatar Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 35,
+        "qty": "W",
+        "unit": "K",
+        "text": "35 KG",
+        "refNumber": 6,
+        "totalWeight": 35,
+        "quantity": 2,
+        "perPieceWeight": 32,
+        "perPieceWeightFlag": "FIRST"
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T14:15:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T03:50:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "QR-04",
+      "QR-1002"
+    ],
+    "duration": {
+      "text": "09h 35m",
+      "value": 575
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "DOH",
+        "stopDuration": 100
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2226.32,
+      "tax": 322.32000000000005,
+      "base": 1904.0000000000002
+    }
+  },
+  {
+    "id": "ee299e7eefa4dc8e638a83c8c93f24a2ece0d7c00797f7cea018c36e426c8faf",
+    "careerCode": "EK",
+    "flight_code": "MS-778",
+    "flight_name": "Emirates",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 2,
+        "qty": "N",
+        "unit": null,
+        "text": "2 PIECE",
+        "refNumber": 5,
+        "quantity": 2
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T14:00:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T06:10:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "MS-778",
+      "EK-926"
+    ],
+    "duration": {
+      "text": "12h 10m",
+      "value": 730
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CAI",
+        "stopDuration": 245
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2775.76,
+      "tax": 248.88000000000002,
+      "base": 2526.88
+    }
+  },
+  {
+    "id": "4326742a2eae9afdd9734f85d60db63f97f9cffbff1eaec72293e22a8d98e89e",
+    "careerCode": "EK",
+    "flight_code": "MS-780",
+    "flight_name": "Emirates",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 2,
+        "qty": "N",
+        "unit": null,
+        "text": "2 PIECE",
+        "refNumber": 5,
+        "quantity": 2
+      }
+    },
+    "currency": "USD",
+    "departureAirport": {
+      "time": "2023-12-15T22:30:00",
+      "code": "LHR",
+      "tz": "Europe/London",
+      "timeZone": "0.00",
+      "type": "1",
+      "label": "London Heathrow Airport",
+      "country": {
+        "label": "United Kingdom",
+        "code": "GB"
+      },
+      "city": "London"
+    },
+    "arrivalAirport": {
+      "time": "2023-12-16T17:45:00",
+      "code": "DXB",
+      "tz": "Asia/Dubai",
+      "timeZone": "4.00",
+      "type": "1",
+      "label": "Dubai International Airport",
+      "country": {
+        "label": "United Arab Emirates",
+        "code": "AE"
+      },
+      "city": "Dubai"
+    },
+    "path": [
+      "MS-780",
+      "EK-928"
+    ],
+    "duration": {
+      "text": "15h 15m",
+      "value": 915
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CAI",
+        "stopDuration": 435
+      }
+    },
+    "totals": {
+      "currency": "USD",
+      "baggage": null,
+      "penalty": null,
+      "total": 2775.76,
+      "tax": 248.88000000000002,
+      "base": 2526.88
+    }
+  }
+]

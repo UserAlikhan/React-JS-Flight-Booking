@@ -1,0 +1,130 @@
+/**{*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*}*/
+
+.sidebar {
+    height: 100vh;
+    width: 200px;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    overflow-y: auto;
+    font-size: 24px;
+}
+
+.sidebar #searchInputField{
+    width: 100%;
+    height: 35px;
+    margin-top: 55px;
+    margin-bottom: 35px;
+    font-size: 18px;
+
+}
+
+.categories{
+    margin-top: 75px;
+}
+
+.categories ul {
+    list-style: none;
+    padding: 0;
+}
+
+.categories ul li {
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.infoWindow {
+    margin-left: 220px;
+    padding: 20px;
+}
+
+.detailedInfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    font-size: 24px;
+    border: 5px solid grey;
+    width: 1400px;
+}
+
+.detailedInfo p{
+    margin-right: 25px;
+}
+
+.buttonsPlace {
+    display: flex;
+    align-items: center;
+}
+
+.buttonsPlace input {
+    margin-right: 10px;
+    font-size: 18px;
+    padding: 1px 15px;
+    cursor: pointer;
+}
+
+.addButtonPlace{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 25px;
+    margin-right: 25px;
+
+}
+
+.addButtonPlace input{
+    background: url('C:/Users/huitd/Downloads/AddButton.png');
+    background-size: cover;
+    border-radius: 100%;
+    cursor: pointer;
+    width: 65px;
+    height: 65px;
+}
+
+.AdminMainCover {
+    width: 1920px;
+    height: 1080px;
+    background-color: #d5c1af;
+}
+
+/* #deleteButton,
+#updateButton,
+#addButton {
+    display: block;
+    margin-top: 10px;
+} */
+
+.changelog {
+    margin-right: 105px;
+    margin-top: 55px;
+    width: 1300px;
+    background-color: black;
+    /*padding: 10px;*/
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+
+.changelog .header {
+    display: flex;
+    background-color: red;
+    width: auto;
+    color: white;
+}
+
+.changelog div {
+    color: white;
+    width: 25%;
+    padding: 5px;
+}
+
+.changelog .LogDataContainer .LogData{
+    display: flex;
+    flex-direction: row;
+    width: 1300px;
+}

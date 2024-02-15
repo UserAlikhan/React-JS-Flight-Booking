@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navigationPanel {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 35px;
+    background-color: #333;
+    color: #fff;
+}
+
+.logo img {
+    margin-top: 15px;
+    max-height: 50px; /* Height of Logo */
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.Pages a {
+    margin-left: 20px;
+    color: grey;
+    text-decoration: none;
+}
+
+#BookNowButton {
+    background-color: gold;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* №№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№ */
+.containerHome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+.pageInfo {
+    max-width: 600px;
+}
+
+.pageInfo h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.pageInfo p {
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+#MakeYourTripButton,
+#RequestQuoteButton {
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 16px;
+    border: 2px solid #fff;
+    background-color: transparent;
+    color: #fff;
+    cursor: pointer;
+    overflow: hidden;
+    transition: background-color 0.3s;
+}
+
+#MakeYourTripButton::before,
+#RequestQuoteButton::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: gold;
+    border-radius: 50%;
+    z-index: -1;
+    transition: opacity 0.3s;
+}
+
+#MakeYourTripButton:hover::before,
+#RequestQuoteButton:hover::before {
+    opacity: 0;
+}
+
+.imgPanel {
+    flex: 1;
+    margin-left: 20px;
+}
+
+.imgPanel img {
+    width: 100%;
+    border-radius: 10px;
+}

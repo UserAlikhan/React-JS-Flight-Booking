@@ -1,0 +1,20 @@
+.mainContainer{
+    padding-top: 85px;
+}
+
+.btn {
+    width: 100%;
+}
+
+.prevPage{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+
+.prevPage a{
+    font-size: 18px;
+    color: yellow;
+}

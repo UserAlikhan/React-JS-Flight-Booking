@@ -1,0 +1,513 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Popins", sans-serif ;
+}
+
+.filterPanel {
+    display: flex;
+    margin-top: 55px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    /*width: auto;*/
+    /*margin-left: 230px;*/
+}
+
+.filterPanel #departurePlaceLabel{
+    margin-left: 230px;
+}
+
+.filterPanel input{
+    margin-right: 35px;
+}
+
+.filterPanel .filterBtn{
+    background-color: gold;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+/* ##################################################### */
+/* sidebarBookingBooking */
+/*body{*/
+/*    position: relative;*/
+/*    min-height: 100hv;*/
+/*    width: 100%;*/
+/*    overflow: hidden;*/
+/*}*/
+
+.sidebarBooking{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 240px;
+    background: #11101d;
+    padding: 6px 14px;
+    z-index: 99;
+    transition: all 0.5s ease;
+    overflow-y: auto;
+}
+
+.sidebarBooking.open{
+    padding-left: 0;
+    width: 90px;
+}
+
+.sidebarBooking .logo_contentBooking{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.sidebarBooking .logo_contentBooking .icon{
+    opacity: 0;
+    transition: all 0.5s ease;
+}
+
+.sidebarBooking .logo_contentBooking img{
+    margin-left: 15px;
+    height: 60px;
+    width: 140px;
+    object-fit: contain;
+    border-radius: 6px;
+    margin-right: 10px;
+    opacity: 1;
+}
+
+.sidebarBooking.open .logo_contentBooking img{
+    opacity: 0;
+}
+
+.sidebarBooking .logo_contentBooking #btn {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    font-size: 22px;
+    transition: all 0.4s ease;
+    font-size: 23px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.sidebarBooking.open .logo_contentBooking #btn{
+    text-align: right;
+}
+
+.sidebarBooking{
+    padding-left: 0;
+}
+
+.sidebarBooking i{
+    color: #fff;
+    height: 60px;
+    min-width: 50px;
+    font-size: 28px;
+    text-align: center;
+    line-height: 60px;
+}
+
+.sidebarBooking .nav_list{
+    margin-top: 20px;
+    height: 100%;
+}
+
+.sidebarBooking li{
+    position: relative;
+    margin: 8px 0;
+    list-style: none;
+}
+
+.sidebarBooking li .tooltipBooking{
+    position: absolute;
+    top: -20px;
+    left: calc(100% + 15px);
+    z-index: 3;
+    background: #fff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: 400;
+    opacity: 0;
+    white-space: nowrap;
+    pointer-events: none;
+    transition: 0s;
+}
+
+.sidebarBooking li:hover .tooltipBooking{
+    opacity: 1;
+    pointer-events: auto;
+    transition: all 0.4s ease;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.sidebarBooking.open li .tooltipBooking{
+    display: none;
+}
+
+.sidebarBooking input{
+    font-size: 15px;
+    color: #fff;
+    font-weight: 400;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    border: none;
+    border-radius: 12px;
+    transition: all 0.5s ease;
+    background: #1d1b31;
+    padding: 0 20px 0 50px;
+    opacity: 1;
+}
+
+.sidebarBooking.open input {
+    padding: 0 20px 0 50px;
+    width: 100%;
+    opacity: 0;
+}
+
+.sidebarBooking .bx-search{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    font-size: 22px;
+    background: #1d1b31;
+    color: #fff;
+}
+
+.sidebarBooking.open .bx-search:hover{
+    background: #1d1b31;
+    color: #fff;
+}
+
+.sidebarBooking .bx-search:hover{
+    background: #fff;
+    color: #11101d;
+}
+
+.sidebarBooking li a{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    border-radius: 12px;
+    align-items: center;
+    text-decoration: none;
+    transition: all 0.4s ease;
+    background: #11101d;
+}
+
+.sidebarBooking li a:hover{
+    background: #fff;
+}
+
+.sidebarBooking li a .links_nameBooking{
+    color: #fff;
+    font-size: 15px;
+    opacity: 1;
+    font-weight: 400;
+    transition: 0.4s;
+}
+
+.sidebarBooking.open li a .links_nameBooking{
+    opacity: 0;
+    pointer-events: auto;
+}
+
+.sidebarBooking li a:hover .links_nameBooking,
+.sidebarBooking li a:hover i
+{
+    transition: all 0.5s ease;
+    color: #11101d;
+}
+
+.sidebarBooking li i{
+    height: 50px;
+    line-height: 50px;
+    font-size: 22px;
+    border-radius: 12px;
+}
+
+.sidebarBooking li .profile{
+    position: fixed;
+    height: 60px;
+    width: 78px;
+    left: 0;
+    bottom: -8px;
+    padding: 10px 14px;
+    background: #1d1b31;
+    transition: all 0.5s ease;
+    overflow: hidden;
+}
+
+.sidebarBooking.open li .profile{
+    width: 250px;
+}
+
+.sidebarBooking li .profile-details{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.sidebarBooking li img{
+    height: 45px;
+    width: 45px;
+    object-fit: fill;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+
+.sidebarBooking li .profile_details {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    color: #fff;
+}
+
+.sidebarBooking .profile_details .name{
+    opacity: 1;
+}
+
+.sidebarBooking.open .profile_details .name{
+    opacity: 0;
+}
+
+.sidebarBooking .logout{
+    position: absolute;
+    bottom: 0;
+    left: 14px;
+    margin: 8px 0;
+    list-style: none;
+}
+
+.sidebarBooking li a .bx-up-arrow-alt{
+    margin-left: auto;
+    color: #fff;
+    font-size: 22px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.component_listBooking{
+    display: none;
+    list-style: none;
+    padding: 10px 15px;
+}
+
+/* .dropdownBooking{
+  display: block;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.dropdownBooking.open{
+  display: none;
+  opacity: 0;
+} */
+
+.dropdownBooking li{
+    color: #fff;
+    background: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7px 8px;
+}
+
+.dropdownBooking p{
+    margin: 0;
+    padding-right: 10px;
+}
+
+.dropdownBooking input[type="checkbox"]{
+    width: 20px;
+    height: 20px;
+}
+
+/* .class_components{
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  background: #1e1953;
+  opacity: 1;
+}
+
+.class_components.fetch {
+  opacity: 0;
+} */
+
+/*
+.sidebarBooking .profile #logout{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  transform: translateY(-50%);
+  background: #1d1b31;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  border-radius: 0px;
+  transition: all 0.5s ease;
+} */
+
+/* .home_section{
+  position: relative;
+  background: #e4e9e7;
+  min-height: 100vh;
+  top: 0;
+  left: 78px;
+  width: calc(100%-78px);
+  transition: all 0.5s ease;
+  z-index: 2;
+  overflow-y: auto;
+} */
+/*
+.sidebarBooking.open ~ .home_section{
+  left: 250px;
+  width: calc(100%-250px);
+}
+
+.home_section .text{
+  display: inline-block;
+  color: #11101d;
+  font-size: 25px;
+  font-weight: 500;
+  margin: 18px;
+}
+
+@media (max-width: 420px){
+  .sidebarBooking li .tooltipBooking{
+    display: none;
+  }
+}  */
+
+/* ############################################################ */
+/* NAVIGATION */
+.rightSideNavPanel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #11101d;
+    color: #fff;
+    flex-direction: row;
+}
+
+.rightSideNavPanel a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 100px;
+}
+
+.rightSideNavPanel a:last-child {
+    margin-right: 0;
+}
+
+.rightSideNavPanel .regAndAuth {
+    position:fixed;
+    margin-right: 140px;
+    right: 0;
+    padding-right: 40px;
+}
+
+/* ################################################################################# */
+/* cards */
+.containerForCards{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    max-width: calc(100% - 450px);
+    height: 79vh;
+    overflow-y: auto;
+    margin-left: 250px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 100%;
+}
+
+.card {
+    width: 350px;
+    height: 330px;
+    margin: 20px 0;
+    margin-right: 55px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-body p {
+    font-size: 20px;
+    margin: 0;
+}
+.pagination{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    right: 0;
+    top: 0;
+    margin-top: 195px;
+    margin-right: 75px;
+}
+
+.pagination button{
+    padding: 10px 20px;
+    color: #ffffff;
+    background-color: darkslateblue;
+}
+
+.nav_list ul li{
+    color: white;
+}
+
+.no-ticket-message{
+    color: red;
+    font-size: 36px;
+}
+
+.card #favoriteButton{
+    margin-left: 300px;
+    background-color: grey;
+    width: 25px;
+    height: 25px;
+}
+
+.card #favoriteButton.favorite{
+    margin-left: 300px;
+    background-color: gold;
+    width: 25px;
+    height: 25px;
+}
+
+#LogoutBtn{
+    background-color: gold;
+    color: white;
+    width: 95px;
+}
